@@ -61,12 +61,16 @@ MTS.Teta Машинное обучение: https://www.teta.mts.ru/machine_lear
 ### Машинное обучение
 1. **[просто]** Специализация "Машинное обучение и анализ данных" на Coursera: https://www.coursera.org/specializations/machine-learning-data-analysis 
 Специализация на русском языке, преподают в основном практикующие Data Scientist'ы из Яндекс. 
+
 Стоит обратить внимание на первые 3 курса:
+
 1.1 Вводный/подготовительный курс: https://www.coursera.org/learn/mathematics-and-python/home/welcome 
+
 1.2 Обучение с учителем: https://www.coursera.org/learn/supervised-learning/home/welcome  самый интересный курс, в нем рассказываем про алгоритмы классификации и регрессии.
+
 1.3 Обучение без учителя: https://www.coursera.org/learn/unsupervised-learning/home/welcome  курс про кластеризацию, уменьшение размерности и визуализацию. 
 
-2. **[сложно]** Видео-лекции от Факультета Компьютерных Наук ВШЭ по машинному обучению 
+2. **[сложно]** Видео-лекции от Факультета Компьютерных Наук ВШЭ по машинному обучению. 
 Вводный технический курс, преподаватель - Евгений Соколов: https://www.youtube.com/watch?v=OBG6EUSRC9g&list=PLEqoHzpnmTfDwuwrFHWVHdr1-qJsfqCUX 
 
 3. **[сложно]** Открытые видео-лекции ШАД Яндекс по машинному обучению.
