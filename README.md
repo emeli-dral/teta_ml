@@ -1,11 +1,11 @@
-# Машинное обучение MTS.Teta
-Репозиторий содержит материалы и полезные ссылки по курсу машинного обучения в летней школе MTS.Teta.
+# Машинное обучение МТС Тета
+Репозиторий содержит материалы и полезные ссылки по курсу машинного обучения в летней школе МТС Тета.
 
 ## Полезные ссылки: 
 
 Slack Channel
 
-MTS.Teta Машинное обучение: https://www.teta.mts.ru/machine_learning_program_description
+МТС Тета Машинное обучение: https://www.teta.mts.ru/machine_learning_program_description
 
 Стажирвка в МТС: https://job.mts.ru/youth
 
